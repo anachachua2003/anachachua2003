@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Ana and I am currently an undergraduate student studying Computer Science at the University of Liverpool, with a strong drive to graduate with a First-Class degree. My passion for software engineering and computational finance motivates me to excel in my studies and to pursue a career in these fields upon graduation.
+Hello, my name is Ana, and I am an undergraduate student pursuing a degree in Computer Science at the University of Liverpool. With a strong drive to excel in my studies, I am determined to graduate with a First-Class degree. I am particularly passionate about software engineering and computational finance, and I am highly motivated to pursue a career in these fields after graduation.
 
 
 ## 🌐 Socials:
