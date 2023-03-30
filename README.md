@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Ana and I am currently studying for a Bachelor's degree in Computer Science at the University of Liverpool. I am originally from Georgia, where I completed high school with the highest GPA, and then moved to the UK for my A-levels.<br>I am currently an undergraduate student studying Computer Science at the University of Liverpool, with a strong drive to graduate with a First-Class degree. My passion for software engineering and computational finance motivates me to excel in my studies and to pursue a career in these fields upon graduation.
+Hi, my name is Ana and I am currently an undergraduate student studying Computer Science at the University of Liverpool, with a strong drive to graduate with a First-Class degree. My passion for software engineering and computational finance motivates me to excel in my studies and to pursue a career in these fields upon graduation.
 
 
 ## 🌐 Socials:
